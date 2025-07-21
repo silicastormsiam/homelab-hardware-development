@@ -1,5 +1,5 @@
 # Homelab Hardware Development
-Inventory and management of a high-powered Linus Homelab infrastructure supporting projects created by Andrew John Holland using the PMBOK project structure.
+Inventory and management of a high-powered Linux Homelab infrastructure supporting projects created by Andrew John Holland using the PMBOK project structure.
 ## Overview
 Supports Andrew's self-study to build a high-powered Linux Homelab with a high-speed managed Unifi Network to enhance my career studies and future employment opportunities.
 ## Components
