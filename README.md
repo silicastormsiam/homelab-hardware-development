@@ -23,7 +23,9 @@ Supports Andrew's self-study to build a high-powered Linux Homelab with a high-s
 - **Network Services**: Pi-hole 6, WireGuard, pfSense+, PiKVM, Tailscale, auto-update.
 - **Applications**: Home Assistant, Emby, Hyper Backup, Docker, Traefik, auto-update.
 <img src="https://github.com/silicastormsiam/homelab-hardware-development/raw/main/AsusROG_1920x1080.jpg" alt="Asus ROG BG">
+<a href="https://www.proxmox.com/en/"><img src="https://img.shields.io/badge/Proxmox-E754AA?logo=proxmox&style=flat-square" alt="Proxmox" style="margin-right: 5px; border: 1px solid #00BF00;"></a>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-00BF00?logo=linux&style=flat-square" alt="Linux" style="margin-right: 5px; border: 1px solid #E754AA;"></a>
+<a href="https://www.microsoft.com/en-us/windows-server"><img src="https://img.shields.io/badge/Windows_Server-2596be?logo=windows&style=flat-square" alt="Windows Server" style="border: 1px solid #E754AA;"></a>
 
 
-*Last updated: 21-07-2025 14:46 +07*
-(Note: Specific IP addresses, ports, and configs omitted for security, stored in Homelab Inventory - Original. Open to sponsorship inquiries.)
+
