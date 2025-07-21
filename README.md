@@ -26,7 +26,7 @@ Supports Andrew's self-study to build a high-powered Linux Homelab with a high-s
 - **Version 1.60 - 2025-07-12**: Andrew, added network enhancements, set auto-updates.
 - **Version 1.59 - 2025-07-12**: Andrew, switched to stable update channel.
 - **Version 1.0 - 2025-07-04**: Andrew, initial setup.
-<img src="https://github.com/silicastormsiam/homelab-hardware-development/raw/main/cyberpunk-bg.jpg" alt="Cyberpunk BG">
+<img src="https://github.com/silicastormsiam/homelab-hardware-development/raw/main/AsusROG_1920x1080.jpg" alt="Asus ROG BG">
 ## Badges
-<img src="https://img.shields.io/badge/Proxmox-E754AA?logo=proxmox&style=flat-square" alt="Proxmox" style="margin-right: 5px; border: 1px solid #00BF00;"><img src="https://img.shields.io/badge/Linux-00BF00?logo=linux&style=flat-square" alt="Linux" style="margin-right: 5px; border: 1px solid #E754AA;"><img src="https://img.shields.io/badge/Windows_Server-1B0024?logo=windows&style=flat-square" alt="Windows Server" style="border: 1px solid #E754AA;">*Last updated: 21-07-2025 14:05 +07*
+<img src="https://img.shields.io/badge/Proxmox-E754AA?logo=proxmox&style=flat-square" alt="Proxmox" style="margin-right: 5px; border: 1px solid #00BF00;"><img src="https://img.shields.io/badge/Linux-00BF00?logo=linux&style=flat-square" alt="Linux" style="margin-right: 5px; border: 1px solid #E754AA;"><img src="https://img.shields.io/badge/Windows_Server-2596be?logo=windows&style=flat-square" alt="Windows Server" style="border: 1px solid #E754AA;">*Last updated: 21-07-2025 14:17 +07*
 (Note: Specific IP addresses, ports, and configs omitted for security, stored in Homelab Inventory - Original. Open to sponsorship inquiries.)
