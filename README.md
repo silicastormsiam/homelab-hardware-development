@@ -15,12 +15,13 @@ Supports Andrew's self-study to build a high-powered Linux Homelab with a high-s
 
 ### Hardware Equipment
 Custom Server: (Fractal Define 7 XL, PVENAS1)
-Motherboard: HUANANZHI X99 F8D X99
-Processors: Dual Intel Xeon E5-2678 v3 (24 cores / 48 threads total, 60 MB L3 cache)
-Memory: 64GB DDR4 RAM (4*16GB RECC memory)
-Remote Access: KVM-A8
-Use Case: Virtualization, backups, storage (TBD)
-Optimized for compute-intensive workloads such as virtualization, database operations, rendering, and scientific simulations
+
+Motherboard: HUANANZHI X99 F8D X99 
+Processors: Dual Intel Xeon E5-2678 v3 (24 cores / 48 threads total, 60 MB L3 cache) 
+Memory: 64GB DDR4 RAM (4*16GB RECC memory) 
+Remote Access: KVM-A8 
+Use Case: Virtualization, backups, storage (TBD) 
+Optimized for compute-intensive workloads such as virtualization, database operations, rendering, and scientific simulations 
 
 - **Alienware Alpha R2 (PVEHASS)**: Mid-range CPU, 8GB RAM, virtualization, home automation.
 - **ASUS ROG Strix PC (ROGStix)**: High-performance CPU, 32GB RAM, gaming GPU, tutoring, gaming, storage TBD.
