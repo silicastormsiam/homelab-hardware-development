@@ -1,0 +1,4 @@
+python-dotenv==1.1.1
+PyGithub
+gql[requests]
+openpyxl
