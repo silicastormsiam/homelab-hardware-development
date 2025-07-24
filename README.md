@@ -2,7 +2,7 @@
 Inventory and management of a high-powered Linux Homelab infrastructure supporting projects created by Andrew John Holland using the PMBOK project structure.
 ## Overview
 Supports Andrew's self-study to build a high-powered Linux Homelab with a high-speed managed Unifi Network to enhance my career studies and future employment opportunities.
-
+.
 ## Components
 ### Network Equipment
 - **TOT Zyxel EX3301-T0**: ISP GPON ONT, WAN to Netgate pfSense+, LAN DHCP, confirm bridge mode.
@@ -22,16 +22,18 @@ Custom Server: (Fractal Define 7 XL, PVENAS1)
 - Remote Access: KVM-A8 
 - Use Case: Virtualization, backups, storage (TBD) 
 - Optimized for compute-intensive workloads such as virtualization, database operations, rendering, and scientific simulations 
-
+.
 - **Alienware Alpha R2 (PVEHASS)**: Mid-range CPU, 8GB RAM, virtualization, home automation.
 - **ASUS ROG Strix PC (ROGStix)**: High-performance CPU, 32GB RAM, gaming GPU, tutoring, gaming, storage TBD.
 - **Samsung Galaxy Book Flex**: TBD specs, management, tutoring.
 - **Samsung Galaxy S23 Ultra**: High-end mobile processor, 12GB RAM, remote management.
 - **Samsung SmartThings Hub**: Home automation.
+  .
 ### Software
 - **Operating Systems**: DSM, Proxmox, Windows 10, Linux, Android, auto-update.
 - **Network Services**: Pi-hole 6, WireGuard, pfSense+, PiKVM, Tailscale, auto-update.
 - **Applications**: Home Assistant, Emby, Hyper Backup, Docker, Traefik, auto-update.
+  .
 <img src="https://github.com/silicastormsiam/homelab-hardware-development/raw/main/AsusROG_1920x1080.jpg" alt="Asus ROG BG">
 <a href="https://www.proxmox.com/en/"><img src="https://img.shields.io/badge/Proxmox-E754AA?logo=proxmox&style=flat-square" alt="Proxmox" style="margin-right: 5px; border: 1px solid #00BF00;"></a>
 <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-00BF00?logo=linux&style=flat-square" alt="Linux" style="margin-right: 5px; border: 1px solid #E754AA;"></a>
