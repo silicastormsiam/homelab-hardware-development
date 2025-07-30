@@ -1,0 +1,8 @@
+.env
+application_tracking.xlsx
+create_application_tracking.py
+projects.json
+query.graphql
+sync_tasks_to_github.py
+tasks.csv
+.env

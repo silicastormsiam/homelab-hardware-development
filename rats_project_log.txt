@@ -1,0 +1,54 @@
+Created and assigned: Actual Task 1 with label Closing on 23-07-2025 14:44 +07
+Created and assigned: Actual Task 2 with label Planning on 23-07-2025 14:44 +07
+Created and assigned: Actual Task 3 with label Planning on 23-07-2025 14:44 +07
+Created and assigned: Actual Task 4 with label Executing on 23-07-2025 14:45 +07
+Created and assigned: Actual Task 5 with label Executing on 23-07-2025 14:45 +07
+Created and assigned: Actual Task 6 with label Executing on 23-07-2025 14:45 +07
+Created and assigned: Actual Task 7 with label Monitoring and Controlling on 23-07-2025 14:45 +07
+Created and assigned: Actual Task 8 with label Monitoring and Controlling on 23-07-2025 14:45 +07
+Created and assigned: Actual Task 9 with label Closing on 23-07-2025 14:45 +07
+Updated status for Actual Task 1 to Initiating on 23-07-2025 14:45 +07
+Updated status for Actual Task 2 to Planning on 23-07-2025 14:45 +07
+Updated status for Actual Task 3 to Planning on 23-07-2025 14:45 +07
+Updated status for Actual Task 4 to Executing on 23-07-2025 14:45 +07
+Updated status for Actual Task 5 to Executing on 23-07-2025 14:45 +07
+Updated status for Actual Task 6 to Executing on 23-07-2025 14:45 +07
+Updated status for Actual Task 7 to Monitoring and Controlling on 23-07-2025 14:45 +07
+Updated status for Actual Task 8 to Monitoring and Controlling on 23-07-2025 14:45 +07
+Updated status for Actual Task 9 to Closing on 23-07-2025 14:45 +07
+Added existing issue to project: Actual Task 1 with label Closing on 23-07-2025 14:51 +07
+Added existing issue to project: Actual Task 2 with label Planning on 23-07-2025 14:51 +07
+Added existing issue to project: Actual Task 3 with label Planning on 23-07-2025 14:51 +07
+Created and assigned: Actual Task 4 with label Executing on 23-07-2025 14:51 +07
+Created and assigned: Actual Task 5 with label Executing on 23-07-2025 14:51 +07
+Created and assigned: Actual Task 6 with label Executing on 23-07-2025 14:51 +07
+Added existing issue to project: Actual Task 7 with label Monitoring and Controlling on 23-07-2025 14:51 +07
+Added existing issue to project: Actual Task 8 with label Monitoring and Controlling on 23-07-2025 14:51 +07
+Added existing issue to project: Actual Task 9 with label Closing on 23-07-2025 14:51 +07
+Updated status for Actual Task 1 to Initiating on 23-07-2025 14:51 +07
+Updated status for Actual Task 2 to Planning on 23-07-2025 14:51 +07
+Updated status for Actual Task 3 to Planning on 23-07-2025 14:51 +07
+Updated status for Actual Task 4 to Executing on 23-07-2025 14:51 +07
+Updated status for Actual Task 5 to Executing on 23-07-2025 14:51 +07
+Updated status for Actual Task 6 to Executing on 23-07-2025 14:51 +07
+Updated status for Actual Task 7 to Monitoring and Controlling on 23-07-2025 14:51 +07
+Updated status for Actual Task 8 to Monitoring and Controlling on 23-07-2025 14:51 +07
+Updated status for Actual Task 9 to Closing on 23-07-2025 14:51 +07
+Created and assigned: Real Task 1 with label Closing on 23-07-2025 14:59 +07
+Created and assigned: Real Task 2 with label Planning on 23-07-2025 14:59 +07
+Created and assigned: Real Task 3 with label Planning on 23-07-2025 14:59 +07
+Created and assigned: Real Task 4 with label Executing on 23-07-2025 15:00 +07
+Created and assigned: Real Task 5 with label Executing on 23-07-2025 15:00 +07
+Created and assigned: Real Task 6 with label Executing on 23-07-2025 15:00 +07
+Created and assigned: Real Task 7 with label Monitoring and Controlling on 23-07-2025 15:00 +07
+Created and assigned: Real Task 8 with label Monitoring and Controlling on 23-07-2025 15:00 +07
+Created and assigned: Real Task 9 with label Closing on 23-07-2025 15:00 +07
+Updated status for Real Task 1 to Initiating on 23-07-2025 15:00 +07
+Updated status for Real Task 2 to Planning on 23-07-2025 15:00 +07
+Updated status for Real Task 3 to Planning on 23-07-2025 15:00 +07
+Updated status for Real Task 4 to Executing on 23-07-2025 15:00 +07
+Updated status for Real Task 5 to Executing on 23-07-2025 15:00 +07
+Updated status for Real Task 6 to Executing on 23-07-2025 15:00 +07
+Updated status for Real Task 7 to Monitoring and Controlling on 23-07-2025 15:00 +07
+Updated status for Real Task 8 to Monitoring and Controlling on 23-07-2025 15:00 +07
+Updated status for Real Task 9 to Closing on 23-07-2025 15:00 +07
